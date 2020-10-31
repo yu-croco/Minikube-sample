@@ -55,7 +55,7 @@ $ ./bin/start_minikube.sh
 - 起動したminikubeへのダッシュボードが勝手に表示される
 
 ```
-$ minikube dashboard
+$ bin/show_minikube_dashboard.sh
 ```
 
 **TBD**
