@@ -6,4 +6,4 @@ minikube delete
 minikube start --vm-driver=virtualbox
 minikube ssh
 sudo sysctl fs.inotify.max_user_watches=1048576
-exit
+exit 0
